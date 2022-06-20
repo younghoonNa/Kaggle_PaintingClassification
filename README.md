@@ -1,5 +1,12 @@
 # Kaggle_PaintingClassification
-2022년 1학기 딥러닝 기초 기말프로젝트 private 86.570
+2022년 1학기 딥러닝 기초 기말프로젝트 
+
+- Score
+  - public 87.270 
+  - private 86.570
+
+- 사용 모델 
+  - 자체 ConvNet + ResNet18 Ensemble
 
 [링크](https://www.kaggle.com/competitions/2022-deep-learning-basics-challenge/leaderboard)
 
